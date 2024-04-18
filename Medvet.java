@@ -2,7 +2,7 @@ package Animals;
 
 
 
-public class Medvet {
+public class Medvet extends Animal{
     String nome;
     String nascimento;
     boolean crmv;
